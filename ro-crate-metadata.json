@@ -30,8 +30,8 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "name": "basefreqsum",
-            "description": "compute base frequencies in a FASTA file",
+            "name": "basefreqsum - modified",
+            "description": "compute test123 base frequencies in a FASTA file",
             "license": "Apache-2.0",
             "mainEntity": {
                 "@id": "workflows/base_freq_sum.cwl"
